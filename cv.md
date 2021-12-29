@@ -1,5 +1,6 @@
 
-![It's me](/i'm at river.jpg)
+
+![It's me](i'm at river.jpg)
 ***
 
 
@@ -21,7 +22,7 @@
 
 ## About me
 
-> "The two most important days in your life are the day you are born and the day you find out why." Mark Twain <
+> "The two most important days in your life are the day you are born and the day you find out why." Mark Twain
 
 I want to be FrontEnd Developer.
 
