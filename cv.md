@@ -1,6 +1,7 @@
 
 
 ![It's me](i'm%20at%20river.jpg)
+
 ***
 
 
@@ -39,6 +40,7 @@ I want to be FrontEnd Developer.
 5. WordPress
 6. VS Code
 7. PhotoShop
+
 ***
 
 
