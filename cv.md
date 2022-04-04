@@ -45,9 +45,9 @@ I want to be FrontEnd Developer.
 ## Code Example
 
 ```
-function multiply(a, b){
-  return a * b;
-}
+function highAndLow(numbers) {
+    numArr = numbers.split(' ').sort((a, b) => a - b);
+    return numArr.length > 1 ? `${numArr.pop()} ${numArr.shift()}` : `${numArr[0]} ${numArr[0]}`
 
 ```
 ***
