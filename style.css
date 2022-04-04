@@ -1,0 +1,23 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1440px;
+    margin: 0 auto;
+   
+}
+
+.header {
+    display: flex;
+    height: 300px;
+    background-color: black;
+}
+
+img {
+    padding: 20px;
+}
