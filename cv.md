@@ -61,10 +61,10 @@ I have not worked as a FrontEnd Developer yet.
 
 
 ## Education
-
-* 2021 The Rolling Scopes School. JavaScript/FrontEnd Pre-School 
+* 2022 The Rolling Scopes School. JavaScript/FrontEnd
 
 (in process)
+* 2021 The Rolling Scopes School. JavaScript/FrontEnd Pre-School 
 * 2019 [Geekbrains. Course "HTML&CSS"](https://gb.ru/go/xHvc_A)
 * 2019 [Geekbrains. Course "Basics of programming"](https://gb.ru/go/b1X4vL)
 * 1995-2001 Saratov State University. Accountant (basic level).
