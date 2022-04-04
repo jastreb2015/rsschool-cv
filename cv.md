@@ -70,6 +70,7 @@ I have not worked as a FrontEnd Developer yet.
 * 2019 [Geekbrains. Course "HTML&CSS"](https://gb.ru/go/xHvc_A)
 * 2019 [Geekbrains. Course "Basics of programming"](https://gb.ru/go/b1X4vL)
 * 1995-2001 Saratov State University. Accountant (basic level).
+
 ***
 
 
