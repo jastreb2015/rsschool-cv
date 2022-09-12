@@ -78,7 +78,9 @@ function highAndLow(numbers) {
 
 ## Experience
 
-I have not worked as a FrontEnd Developer yet.
+I have not worked as a FrontEnd Developer yet. But I have done some projects:
+* [CV](https://jastreb2015.github.io/rsschool-cv/cv)
+* [Portfolio](https://rolling-scopes-school.github.io/jastreb2015-JSFEPRESCHOOL/portfolio)
 
 ***
 
