@@ -101,10 +101,3 @@ I have not worked as a FrontEnd Developer yet. But I have done some projects:
 
 Upper Intermediate (B2)
 
-
-
-
-
-
-
-
